@@ -1,0 +1,172 @@
+{
+  "abi": "X86",
+  "info": {
+    "abi": "X86",
+    "bitness": 32,
+    "deprecated": false,
+    "default": true
+  },
+  "cxxBuildFolder": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\.cxx\\Debug\\2a3c2423\\x86",
+  "soFolder": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\build\\intermediates\\cxx\\Debug\\2a3c2423\\obj\\x86",
+  "soRepublishFolder": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\build\\intermediates\\cmake\\debug\\obj\\x86",
+  "abiPlatformVersion": 30,
+  "cmake": {
+    "effectiveConfiguration": {
+      "inheritEnvironments": [],
+      "variables": []
+    }
+  },
+  "variant": {
+    "buildSystemArgumentList": [
+      "-DANDROID_STL\u003dc++_shared"
+    ],
+    "cFlagsList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\build\\intermediates\\cxx\\Debug\\2a3c2423\\obj",
+    "soRepublishFolder": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\build\\intermediates\\cmake\\debug\\obj",
+    "cxxBuildFolder": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\.cxx\\Debug\\2a3c2423",
+    "intermediatesFolder": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\build\\intermediates\\cxx\\Debug\\2a3c2423",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": [
+      "opencv_jni_shared"
+    ],
+    "implicitBuildTargetSet": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "module": {
+      "cxxFolder": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\.cxx",
+      "intermediatesBaseFolder": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\build\\intermediates",
+      "intermediatesFolder": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\build\\intermediates\\cxx",
+      "gradleModulePathName": ":OpenCV4",
+      "moduleRootFolder": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4",
+      "moduleBuildFile": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\build.gradle",
+      "makeFile": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "ndkFolder": "C:\\Users\\User\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529",
+      "ndkVersion": "21.4.7075529",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "LIBCXX_STATIC",
+      "ndkMetaPlatforms": {
+        "min": 16,
+        "max": 30,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28,
+          "Q": 29,
+          "R": 30
+        }
+      },
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "cmakeToolchainFile": "C:\\Users\\User\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake",
+      "cmake": {
+        "isValidCmakeAvailable": true,
+        "cmakeExe": "C:\\Users\\User\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\cmake.exe",
+        "minimumCmakeVersion": "3.18.1",
+        "ninjaExe": "C:\\Users\\User\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe"
+      },
+      "stlSharedObjectMap": {
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "C:\\Users\\User\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\arm-linux-androideabi\\libc++_shared.so",
+          "ARM64_V8A": "C:\\Users\\User\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\aarch64-linux-android\\libc++_shared.so",
+          "X86": "C:\\Users\\User\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\i686-linux-android\\libc++_shared.so",
+          "X86_64": "C:\\Users\\User\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\x86_64-linux-android\\libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "SYSTEM": {}
+      },
+      "project": {
+        "rootBuildGradleFolder": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main",
+        "sdkFolder": "C:\\Users\\User\\AppData\\Local\\Android\\Sdk",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isPrefabEnabled": false
+      },
+      "outputOptions": []
+    },
+    "prefabClassPathFileCollection": [],
+    "prefabPackageDirectoryListFileCollection": [],
+    "stlType": "c++_shared",
+    "optimizationTag": "Debug"
+  },
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "prefabFolder": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\.cxx\\Debug\\2a3c2423\\prefab\\x86",
+  "isActiveAbi": true,
+  "fullConfigurationHash": "2a3c2423b1p155v6a734qtc4pl6b614cb126l4k4j6oc112p2q2a1e1e3h",
+  "configurationArguments": [
+    "-HD:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\libcxx_helper",
+    "-DCMAKE_SYSTEM_NAME\u003dAndroid",
+    "-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON",
+    "-DCMAKE_SYSTEM_VERSION\u003d30",
+    "-DANDROID_PLATFORM\u003dandroid-30",
+    "-DANDROID_ABI\u003dx86",
+    "-DCMAKE_ANDROID_ARCH_ABI\u003dx86",
+    "-DANDROID_NDK\u003dC:\\Users\\User\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529",
+    "-DCMAKE_ANDROID_NDK\u003dC:\\Users\\User\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529",
+    "-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\User\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake",
+    "-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\User\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\build\\intermediates\\cxx\\Debug\\2a3c2423\\obj\\x86",
+    "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dD:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\build\\intermediates\\cxx\\Debug\\2a3c2423\\obj\\x86",
+    "-DCMAKE_BUILD_TYPE\u003dDebug",
+    "-BD:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\.cxx\\Debug\\2a3c2423\\x86",
+    "-GNinja",
+    "-DANDROID_STL\u003dc++_shared"
+  ],
+  "stlLibraryFile": "C:\\Users\\User\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\i686-linux-android\\libc++_shared.so"
+}

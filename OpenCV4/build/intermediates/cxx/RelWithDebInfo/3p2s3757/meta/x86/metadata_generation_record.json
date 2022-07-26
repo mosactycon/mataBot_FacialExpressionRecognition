@@ -1,0 +1,170 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 30 min SDK version: x86",
+    "file_": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1233236233
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\.cxx\\RelWithDebInfo\\3p2s3757\\x86\\android_gradle_build.json due to:",
+    "file_": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2065554630
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\.cxx\\RelWithDebInfo\\3p2s3757\\x86\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 476045976
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\.cxx\\RelWithDebInfo\\3p2s3757\\x86\\metadata_generation_command.txt, will remove stale json folder",
+    "file_": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1821904790
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -142871141
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\.cxx\\RelWithDebInfo\\3p2s3757\\x86\u0027",
+    "file_": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1803774152
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake Executable : C:\\Users\\User\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\cmake.exe\narguments : \n-HD:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\libcxx_helper\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d30\n-DANDROID_PLATFORM\u003dandroid-30\n-DANDROID_ABI\u003dx86\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86\n-DANDROID_NDK\u003dC:\\Users\\User\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_ANDROID_NDK\u003dC:\\Users\\User\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\User\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\User\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\build\\intermediates\\cxx\\RelWithDebInfo\\3p2s3757\\obj\\x86\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dD:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\build\\intermediates\\cxx\\RelWithDebInfo\\3p2s3757\\obj\\x86\n-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo\n-BD:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\.cxx\\RelWithDebInfo\\3p2s3757\\x86\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -916133202
+  },
+  {
+    "level_": 0,
+    "message_": "Executable : C:\\Users\\User\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\cmake.exe\narguments : \n-HD:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\libcxx_helper\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d30\n-DANDROID_PLATFORM\u003dandroid-30\n-DANDROID_ABI\u003dx86\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86\n-DANDROID_NDK\u003dC:\\Users\\User\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_ANDROID_NDK\u003dC:\\Users\\User\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\User\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\User\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\build\\intermediates\\cxx\\RelWithDebInfo\\3p2s3757\\obj\\x86\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dD:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\build\\intermediates\\cxx\\RelWithDebInfo\\3p2s3757\\obj\\x86\n-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo\n-BD:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\.cxx\\RelWithDebInfo\\3p2s3757\\x86\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1606513359
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\.cxx\\RelWithDebInfo\\3p2s3757\\x86\\compile_commands.json.bin normally",
+    "file_": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1579837186
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -455217392
+  },
+  {
+    "level_": 0,
+    "message_": "write command file D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\.cxx\\RelWithDebInfo\\3p2s3757\\x86\\metadata_generation_command.txt",
+    "file_": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -487185648
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot_OpenCV4Camera-main\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1482855692
+  }
+]

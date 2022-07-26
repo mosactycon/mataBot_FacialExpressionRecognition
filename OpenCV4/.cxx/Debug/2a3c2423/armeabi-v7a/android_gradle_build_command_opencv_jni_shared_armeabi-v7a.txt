@@ -1,0 +1,7 @@
+Executable : C:\Users\User\AppData\Local\Android\Sdk\cmake\3.18.1\bin\ninja.exe
+arguments : 
+-C
+D:\Penelitian Ilmiah\AndroidStudioProjects\mataBot_OpenCV4Camera-main\OpenCV4\.cxx\Debug\2a3c2423\armeabi-v7a
+opencv_jni_shared
+jvmArgs : 
+

@@ -1,0 +1,7 @@
+Executable : C:\Users\User\AppData\Local\Android\Sdk\cmake\3.18.1\bin\ninja.exe
+arguments : 
+-C
+D:\Penelitian Ilmiah\AndroidStudioProjects\mataBot appPackage\4facial expression recognition\OpenCV4\.cxx\Debug\156b402i\armeabi-v7a
+opencv_jni_shared
+jvmArgs : 
+

@@ -1,0 +1,3 @@
+D:/Penelitian Ilmiah/AndroidStudioProjects/mataBot_OpenCV4Camera-main/OpenCV4/.cxx/Debug/2a3c2423/x86/CMakeFiles/opencv_jni_shared.dir
+D:/Penelitian Ilmiah/AndroidStudioProjects/mataBot_OpenCV4Camera-main/OpenCV4/.cxx/Debug/2a3c2423/x86/CMakeFiles/edit_cache.dir
+D:/Penelitian Ilmiah/AndroidStudioProjects/mataBot_OpenCV4Camera-main/OpenCV4/.cxx/Debug/2a3c2423/x86/CMakeFiles/rebuild_cache.dir

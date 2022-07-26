@@ -1,0 +1,1 @@
+D:\Penelitian Ilmiah\AndroidStudioProjects\mataBot appPackage\4facial expression recognition\OpenCV4\build\intermediates\cxx\Debug\156b402i\obj\armeabi-v7a

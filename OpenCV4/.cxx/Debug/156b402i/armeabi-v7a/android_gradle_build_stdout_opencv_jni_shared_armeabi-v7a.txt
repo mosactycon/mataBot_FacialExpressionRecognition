@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\Penelitian Ilmiah\AndroidStudioProjects\mataBot appPackage\4facial expression recognition\OpenCV4\.cxx\Debug\156b402i\armeabi-v7a'
+ninja: no work to do.

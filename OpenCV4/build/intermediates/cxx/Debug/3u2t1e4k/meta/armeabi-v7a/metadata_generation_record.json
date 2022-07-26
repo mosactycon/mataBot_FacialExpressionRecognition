@@ -1,0 +1,184 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 30 min SDK version: armeabi-v7a",
+    "file_": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 540249009
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot\\OpenCV4\\.cxx\\Debug\\3u2t1e4k\\armeabi-v7a\\android_gradle_build.json due to:",
+    "file_": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1547334033
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot\\OpenCV4\\.cxx\\Debug\\3u2t1e4k\\armeabi-v7a\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1684539847
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot\\OpenCV4\\.cxx\\Debug\\3u2t1e4k\\armeabi-v7a\\metadata_generation_command.txt, will remove stale json folder",
+    "file_": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 57603077
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1996120087
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot\\OpenCV4\\.cxx\\Debug\\3u2t1e4k\\armeabi-v7a\u0027",
+    "file_": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1874231805
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot\\OpenCV4\\.cxx\\Debug\\3u2t1e4k\\armeabi-v7a\u0027",
+    "file_": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2052407159
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake Executable : C:\\Users\\User\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\cmake.exe\narguments : \n-HD:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot\\OpenCV4\\libcxx_helper\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d30\n-DANDROID_PLATFORM\u003dandroid-30\n-DANDROID_ABI\u003darmeabi-v7a\n-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a\n-DANDROID_NDK\u003dC:\\Users\\User\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_ANDROID_NDK\u003dC:\\Users\\User\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\User\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\User\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot\\OpenCV4\\build\\intermediates\\cxx\\Debug\\3u2t1e4k\\obj\\armeabi-v7a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dD:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot\\OpenCV4\\build\\intermediates\\cxx\\Debug\\3u2t1e4k\\obj\\armeabi-v7a\n-DCMAKE_BUILD_TYPE\u003dDebug\n-BD:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot\\OpenCV4\\.cxx\\Debug\\3u2t1e4k\\armeabi-v7a\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1738408647
+  },
+  {
+    "level_": 0,
+    "message_": "Executable : C:\\Users\\User\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\cmake.exe\narguments : \n-HD:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot\\OpenCV4\\libcxx_helper\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d30\n-DANDROID_PLATFORM\u003dandroid-30\n-DANDROID_ABI\u003darmeabi-v7a\n-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a\n-DANDROID_NDK\u003dC:\\Users\\User\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_ANDROID_NDK\u003dC:\\Users\\User\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\User\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\User\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot\\OpenCV4\\build\\intermediates\\cxx\\Debug\\3u2t1e4k\\obj\\armeabi-v7a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dD:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot\\OpenCV4\\build\\intermediates\\cxx\\Debug\\3u2t1e4k\\obj\\armeabi-v7a\n-DCMAKE_BUILD_TYPE\u003dDebug\n-BD:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot\\OpenCV4\\.cxx\\Debug\\3u2t1e4k\\armeabi-v7a\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 675988456
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot\\OpenCV4\\.cxx\\Debug\\3u2t1e4k\\armeabi-v7a\\compile_commands.json.bin normally",
+    "file_": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1024658157
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1683773836
+  },
+  {
+    "level_": 0,
+    "message_": "write command file D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot\\OpenCV4\\.cxx\\Debug\\3u2t1e4k\\armeabi-v7a\\metadata_generation_command.txt",
+    "file_": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 360478585
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "D:\\Penelitian Ilmiah\\AndroidStudioProjects\\mataBot\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -673120376
+  }
+]
